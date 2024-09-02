@@ -1,0 +1,1418 @@
+[
+    {
+        "check": "to write",
+        "id": 1,
+        "inLists": null,
+        "question": "schreiben"
+    },
+    {
+        "check": "to walk",
+        "id": 2,
+        "inLists": null,
+        "question": "laufen"
+    },
+    {
+        "check": "to learn",
+        "id": 3,
+        "inLists": null,
+        "question": "lernen"
+    },
+    {
+        "check": "to drive",
+        "id": 4,
+        "inLists": null,
+        "question": "fahren"
+    },
+    {
+        "check": "to buy",
+        "id": 5,
+        "inLists": null,
+        "question": "kaufen"
+    },
+    {
+        "check": "to give",
+        "id": 6,
+        "inLists": null,
+        "question": "geben"
+    },
+    {
+        "check": "to visit",
+        "id": 7,
+        "inLists": null,
+        "question": "besuchen"
+    },
+    {
+        "check": "to search",
+        "id": 8,
+        "inLists": null,
+        "question": "suchen"
+    },
+    {
+        "check": "to see",
+        "id": 9,
+        "inLists": null,
+        "question": "sehen"
+    },
+    {
+        "check": "to cook",
+        "id": 10,
+        "inLists": null,
+        "question": "kochen"
+    },
+    {
+        "check": "to play",
+        "id": 11,
+        "inLists": null,
+        "question": "spielen"
+    },
+    {
+        "check": "to stay",
+        "id": 12,
+        "inLists": null,
+        "question": "bleiben"
+    },
+    {
+        "check": "to stop",
+        "id": 13,
+        "inLists": null,
+        "question": "aufhören"
+    },
+    {
+        "check": "to swirl",
+        "id": 14,
+        "inLists": null,
+        "question": "strudeln"
+    },
+    {
+        "check": "to speak",
+        "id": 15,
+        "inLists": null,
+        "question": "sprechen"
+    },
+    {
+        "check": "to live",
+        "id": 16,
+        "inLists": null,
+        "question": "wohnen"
+    },
+    {
+        "check": "to study",
+        "id": 17,
+        "inLists": null,
+        "question": "studieren"
+    },
+    {
+        "check": "to like",
+        "id": 18,
+        "inLists": null,
+        "question": "mögen"
+    },
+    {
+        "check": "to rent",
+        "id": 19,
+        "inLists": null,
+        "question": "mieten"
+    },
+    {
+        "check": "to eat",
+        "id": 20,
+        "inLists": null,
+        "question": "essen"
+    },
+    {
+        "check": "to read",
+        "id": 21,
+        "inLists": null,
+        "question": "lesen"
+    },
+    {
+        "check": "to go",
+        "id": 22,
+        "inLists": null,
+        "question": "gehen"
+    },
+    {
+        "check": "to sleep",
+        "id": 23,
+        "inLists": null,
+        "question": "schlafen"
+    },
+    {
+        "check": "to watch tv",
+        "id": 24,
+        "inLists": null,
+        "question": "fernsehen"
+    },
+    {
+        "check": "to stand",
+        "id": 25,
+        "inLists": null,
+        "question": "stehen"
+    },
+    {
+        "check": "to close",
+        "id": 26,
+        "inLists": null,
+        "question": "schließen"
+    },
+    {
+        "check": "to prefer",
+        "id": 27,
+        "inLists": null,
+        "question": "bevorzugen"
+    },
+    {
+        "check": "to want",
+        "id": 28,
+        "inLists": null,
+        "question": "wollen"
+    },
+    {
+        "check": "to make",
+        "id": 29,
+        "inLists": null,
+        "question": "machen"
+    },
+    {
+        "check": "to order",
+        "id": 30,
+        "inLists": null,
+        "question": "bestellen"
+    },
+    {
+        "check": "to shop",
+        "id": 31,
+        "inLists": null,
+        "question": "einkaufen"
+    },
+    {
+        "check": "to teach",
+        "id": 32,
+        "inLists": null,
+        "question": "unterrichten"
+    },
+    {
+        "check": "to serve",
+        "id": 33,
+        "inLists": null,
+        "question": "servieren"
+    },
+    {
+        "check": "to sell",
+        "id": 34,
+        "inLists": null,
+        "question": "verkaufen"
+    },
+    {
+        "check": "to care for",
+        "id": 35,
+        "inLists": null,
+        "question": "pflegen"
+    },
+    {
+        "check": "to find",
+        "id": 36,
+        "inLists": null,
+        "question": "finden"
+    },
+    {
+        "check": "to need",
+        "id": 37,
+        "inLists": null,
+        "question": "brauchen"
+    },
+    {
+        "check": "the cat",
+        "id": 38,
+        "inLists": null,
+        "question": "die Katze"
+    },
+    {
+        "check": "the dog",
+        "id": 39,
+        "inLists": null,
+        "question": "der Hund"
+    },
+    {
+        "check": "the mother",
+        "id": 40,
+        "inLists": null,
+        "question": "die Mutter"
+    },
+    {
+        "check": "the Father",
+        "id": 41,
+        "inLists": null,
+        "question": "der Vater"
+    },
+    {
+        "check": "the mothers",
+        "id": 42,
+        "inLists": null,
+        "question": "die Mütter"
+    },
+    {
+        "check": "the fathers",
+        "id": 43,
+        "inLists": null,
+        "question": "die Väter"
+    },
+    {
+        "check": "the boy",
+        "id": 44,
+        "inLists": null,
+        "question": "der Junge"
+    },
+    {
+        "check": "the menu",
+        "id": 45,
+        "inLists": null,
+        "question": "die Speisekarte"
+    },
+    {
+        "check": "the son",
+        "id": 46,
+        "inLists": null,
+        "question": "der Sohn"
+    },
+    {
+        "check": "see you soon ",
+        "id": 47,
+        "inLists": null,
+        "question": "bis bald"
+    },
+    {
+        "check": "the mouse",
+        "id": 48,
+        "inLists": null,
+        "question": "die Maus"
+    },
+    {
+        "check": "small",
+        "id": 49,
+        "inLists": null,
+        "question": "klein"
+    },
+    {
+        "check": "not",
+        "id": 50,
+        "inLists": null,
+        "question": "kein"
+    },
+    {
+        "check": "delicious",
+        "id": 51,
+        "inLists": null,
+        "question": "lecker"
+    },
+    {
+        "check": "the bread",
+        "id": 52,
+        "inLists": null,
+        "question": "das Brot"
+    },
+    {
+        "check": "the brother",
+        "id": 53,
+        "inLists": null,
+        "question": "der Bruder"
+    },
+    {
+        "check": "the brothers",
+        "id": 54,
+        "inLists": null,
+        "question": "die Brüder"
+    },
+    {
+        "check": "the sister",
+        "id": 55,
+        "inLists": null,
+        "question": "die Schwester"
+    },
+    {
+        "check": "the daughter",
+        "id": 56,
+        "inLists": null,
+        "question": "die Tochter"
+    },
+    {
+        "check": "the uncle",
+        "id": 57,
+        "inLists": null,
+        "question": "der Onkel"
+    },
+    {
+        "check": "Austria",
+        "id": 58,
+        "inLists": null,
+        "question": "Österreich"
+    },
+    {
+        "check": "hot",
+        "id": 59,
+        "inLists": null,
+        "question": "heiß"
+    },
+    {
+        "check": "the tea",
+        "id": 60,
+        "inLists": null,
+        "question": "der Tee"
+    },
+    {
+        "check": "the waiter",
+        "id": 61,
+        "inLists": null,
+        "question": "der Kellner"
+    },
+    {
+        "check": "cold",
+        "id": 62,
+        "inLists": null,
+        "question": "Kalt"
+    },
+    {
+        "check": "the cheese",
+        "id": 63,
+        "inLists": null,
+        "question": "der Käse"
+    },
+    {
+        "check": "where are you from",
+        "id": 64,
+        "inLists": null,
+        "question": "woher kommst du"
+    },
+    {
+        "check": "big",
+        "id": 65,
+        "inLists": null,
+        "question": "groß"
+    },
+    {
+        "check": "from, made of ",
+        "id": 66,
+        "inLists": null,
+        "question": "aus"
+    },
+    {
+        "check": "the check",
+        "id": 67,
+        "inLists": null,
+        "question": "die Rechnung"
+    },
+    {
+        "check": "France",
+        "id": 68,
+        "inLists": null,
+        "question": "Frankreich"
+    },
+    {
+        "check": "the city",
+        "id": 69,
+        "inLists": null,
+        "question": "die Stadt"
+    },
+    {
+        "check": "the food",
+        "id": 70,
+        "inLists": null,
+        "question": "das Essen"
+    },
+    {
+        "check": "also",
+        "id": 71,
+        "inLists": null,
+        "question": "auch"
+    },
+    {
+        "check": "loud",
+        "id": 72,
+        "inLists": null,
+        "question": "laut"
+    },
+    {
+        "check": "exciting",
+        "id": 73,
+        "inLists": null,
+        "question": "aufregend"
+    },
+    {
+        "check": "expensive",
+        "id": 74,
+        "inLists": null,
+        "question": "teuer"
+    },
+    {
+        "check": "its going badly",
+        "id": 75,
+        "inLists": null,
+        "question": "Mir geht's schlecht"
+    },
+    {
+        "check": "I live in spain",
+        "id": 76,
+        "inLists": null,
+        "question": "Ich wohne in Spanien"
+    },
+    {
+        "check": "where do you live?",
+        "id": 77,
+        "inLists": null,
+        "question": "wo wohnest du?"
+    },
+    {
+        "check": "brazil",
+        "id": 78,
+        "inLists": null,
+        "question": "Brasilien"
+    },
+    {
+        "check": "a little",
+        "id": 79,
+        "inLists": null,
+        "question": "ein bisschen"
+    },
+    {
+        "check": "do you speak english?",
+        "id": 80,
+        "inLists": null,
+        "question": "sprichst du englisch?"
+    },
+    {
+        "check": "languages",
+        "id": 81,
+        "inLists": null,
+        "question": "Sprachen"
+    },
+    {
+        "check": "which languages do you speak?",
+        "id": 82,
+        "inLists": null,
+        "question": "Welche Sprachen sprichst du?"
+    },
+    {
+        "check": "ten",
+        "id": 83,
+        "inLists": null,
+        "question": "zehn"
+    },
+    {
+        "check": "have a nice day",
+        "id": 84,
+        "inLists": null,
+        "question": "schönen tag"
+    },
+    {
+        "check": "have a nice weekend",
+        "id": 85,
+        "inLists": null,
+        "question": "schönes wochenende"
+    },
+    {
+        "check": "I love ",
+        "id": 86,
+        "inLists": null,
+        "question": "ich liebe "
+    },
+    {
+        "check": "the main train station",
+        "id": 87,
+        "inLists": null,
+        "question": "der Hauptbahnhof"
+    },
+    {
+        "check": "tired",
+        "id": 88,
+        "inLists": null,
+        "question": "müde"
+    },
+    {
+        "check": "ill",
+        "id": 89,
+        "inLists": null,
+        "question": "krank"
+    },
+    {
+        "check": "the liqeur",
+        "id": 90,
+        "inLists": null,
+        "question": "der Schnaps"
+    },
+    {
+        "check": "bad",
+        "id": 91,
+        "inLists": null,
+        "question": "schlecht"
+    },
+    {
+        "check": "we are",
+        "id": 92,
+        "inLists": null,
+        "question": "wir sind"
+    },
+    {
+        "check": "you are",
+        "id": 93,
+        "inLists": null,
+        "question": "ihr seid"
+    },
+    {
+        "check": "happy",
+        "id": 94,
+        "inLists": null,
+        "question": "glücklich"
+    },
+    {
+        "check": "healthy",
+        "id": 95,
+        "inLists": null,
+        "question": "gesund"
+    },
+    {
+        "check": "naked",
+        "id": 96,
+        "inLists": null,
+        "question": "Nackt"
+    },
+    {
+        "check": "night",
+        "id": 97,
+        "inLists": null,
+        "question": "Nacht"
+    },
+    {
+        "check": "the water",
+        "id": 98,
+        "inLists": null,
+        "question": "das Wasser"
+    },
+    {
+        "check": "the profession",
+        "id": 99,
+        "inLists": null,
+        "question": "der Beruf"
+    },
+    {
+        "check": "the it specialist",
+        "id": 100,
+        "inLists": null,
+        "question": "der Informatiker"
+    },
+    {
+        "check": "the nursery teacher",
+        "id": 101,
+        "inLists": null,
+        "question": "der Erzieher"
+    },
+    {
+        "check": "the engineer",
+        "id": 102,
+        "inLists": null,
+        "question": "der Ingeneur"
+    },
+    {
+        "check": "the nurse",
+        "id": 103,
+        "inLists": null,
+        "question": "der Krankenpfleger"
+    },
+    {
+        "check": "the job",
+        "id": 104,
+        "inLists": null,
+        "question": "die Arbeit"
+    },
+    {
+        "check": "law",
+        "id": 105,
+        "inLists": null,
+        "question": "Jura"
+    },
+    {
+        "check": "what",
+        "id": 106,
+        "inLists": null,
+        "question": "was"
+    },
+    {
+        "check": "what do you all study?",
+        "id": 107,
+        "inLists": null,
+        "question": "was studiert ihr?"
+    },
+    {
+        "check": "medicine",
+        "id": 108,
+        "inLists": null,
+        "question": "Medizin"
+    },
+    {
+        "check": "the shop assistant",
+        "id": 109,
+        "inLists": null,
+        "question": "der Verkäufer"
+    },
+    {
+        "check": "In a good mood",
+        "id": 110,
+        "inLists": null,
+        "question": "Sie ist gut drauf"
+    },
+    {
+        "check": "zero",
+        "id": 111,
+        "inLists": null,
+        "question": "null"
+    },
+    {
+        "check": "one",
+        "id": 112,
+        "inLists": null,
+        "question": "eins"
+    },
+    {
+        "check": "two",
+        "id": 113,
+        "inLists": null,
+        "question": "zwei"
+    },
+    {
+        "check": "three",
+        "id": 114,
+        "inLists": null,
+        "question": "drei"
+    },
+    {
+        "check": "four",
+        "id": 115,
+        "inLists": null,
+        "question": "vier"
+    },
+    {
+        "check": "five",
+        "id": 116,
+        "inLists": null,
+        "question": "fünf"
+    },
+    {
+        "check": "six",
+        "id": 117,
+        "inLists": null,
+        "question": "sechs"
+    },
+    {
+        "check": "seven",
+        "id": 118,
+        "inLists": null,
+        "question": "sieben"
+    },
+    {
+        "check": "eight",
+        "id": 119,
+        "inLists": null,
+        "question": "aucht"
+    },
+    {
+        "check": "nine",
+        "id": 120,
+        "inLists": null,
+        "question": "neun"
+    },
+    {
+        "check": "eleven",
+        "id": 121,
+        "inLists": null,
+        "question": "elf"
+    },
+    {
+        "check": "twelve",
+        "id": 122,
+        "inLists": null,
+        "question": "zwölf"
+    },
+    {
+        "check": "thirteen",
+        "id": 123,
+        "inLists": null,
+        "question": "dreizehn"
+    },
+    {
+        "check": "fourteen",
+        "id": 124,
+        "inLists": null,
+        "question": "vierzehn"
+    },
+    {
+        "check": "fifteen",
+        "id": 125,
+        "inLists": null,
+        "question": "fünfzehn"
+    },
+    {
+        "check": "sixteen",
+        "id": 126,
+        "inLists": null,
+        "question": "sechzehn"
+    },
+    {
+        "check": "seventeen",
+        "id": 127,
+        "inLists": null,
+        "question": "siebzehn"
+    },
+    {
+        "check": "eighteen",
+        "id": 128,
+        "inLists": null,
+        "question": "auchtzehn"
+    },
+    {
+        "check": "nineteen",
+        "id": 129,
+        "inLists": null,
+        "question": "neunzehn"
+    },
+    {
+        "check": "twenty",
+        "id": 130,
+        "inLists": null,
+        "question": "zwanzig"
+    },
+    {
+        "check": "how much is it",
+        "id": 131,
+        "inLists": null,
+        "question": "Wie viel kostet das"
+    },
+    {
+        "check": "the watch",
+        "id": 132,
+        "inLists": null,
+        "question": "die Uhr"
+    },
+    {
+        "check": "mobile phone",
+        "id": 133,
+        "inLists": null,
+        "question": "das Handy"
+    },
+    {
+        "check": "the hat",
+        "id": 134,
+        "inLists": null,
+        "question": "der Hut"
+    },
+    {
+        "check": "footwear",
+        "id": 135,
+        "inLists": null,
+        "question": "Schuhe"
+    },
+    {
+        "check": "thirst",
+        "id": 136,
+        "inLists": null,
+        "question": "Durst"
+    },
+    {
+        "check": "hunger",
+        "id": 137,
+        "inLists": null,
+        "question": "Hunger"
+    },
+    {
+        "check": "I have",
+        "id": 138,
+        "inLists": null,
+        "question": "ich habe"
+    },
+    {
+        "check": "I would like",
+        "id": 139,
+        "inLists": null,
+        "question": "ich hätte gern"
+    },
+    {
+        "check": "desire",
+        "id": 140,
+        "inLists": null,
+        "question": "Lust"
+    },
+    {
+        "check": "the breakfast",
+        "id": 141,
+        "inLists": null,
+        "question": "das frühstück"
+    },
+    {
+        "check": "the apple spritzer",
+        "id": 142,
+        "inLists": null,
+        "question": "die Apfelschorle"
+    },
+    {
+        "check": "what is this",
+        "id": 143,
+        "inLists": null,
+        "question": "was ist das?"
+    },
+    {
+        "check": "that there",
+        "id": 144,
+        "inLists": null,
+        "question": "das da"
+    },
+    {
+        "check": "this here",
+        "id": 145,
+        "inLists": null,
+        "question": "das hier"
+    },
+    {
+        "check": "year",
+        "id": 146,
+        "inLists": null,
+        "question": "Jahr"
+    },
+    {
+        "check": "few",
+        "id": 147,
+        "inLists": null,
+        "question": "wenige"
+    },
+    {
+        "check": "the restaurants are good",
+        "id": 148,
+        "inLists": null,
+        "question": "Die restaurants sind gut"
+    },
+    {
+        "check": "cake",
+        "id": 149,
+        "inLists": null,
+        "question": "kuchen"
+    },
+    {
+        "check": "zero interest",
+        "id": 150,
+        "inLists": null,
+        "question": "null Bock"
+    },
+    {
+        "check": "totally interested",
+        "id": 151,
+        "inLists": null,
+        "question": "voll back"
+    },
+    {
+        "check": "fries",
+        "id": 152,
+        "inLists": null,
+        "question": "Pommes"
+    },
+    {
+        "check": "mother",
+        "id": 153,
+        "inLists": null,
+        "question": "Mutter"
+    },
+    {
+        "check": "father",
+        "id": 154,
+        "inLists": null,
+        "question": "Vater"
+    },
+    {
+        "check": "son",
+        "id": 155,
+        "inLists": null,
+        "question": "Sohn"
+    },
+    {
+        "check": "child",
+        "id": 156,
+        "inLists": null,
+        "question": "Kind"
+    },
+    {
+        "check": "sons",
+        "id": 157,
+        "inLists": null,
+        "question": "Söhne"
+    },
+    {
+        "check": "children",
+        "id": 158,
+        "inLists": null,
+        "question": "Kinder"
+    },
+    {
+        "check": "sister",
+        "id": 159,
+        "inLists": null,
+        "question": "Schwester"
+    },
+    {
+        "check": "brother",
+        "id": 160,
+        "inLists": null,
+        "question": "Bruder"
+    },
+    {
+        "check": "they are",
+        "id": 161,
+        "inLists": null,
+        "question": "Das sind"
+    },
+    {
+        "check": "I have two children",
+        "id": 162,
+        "inLists": null,
+        "question": "ich habe zwei Kinder"
+    },
+    {
+        "check": "parents",
+        "id": 163,
+        "inLists": null,
+        "question": "Eltern"
+    },
+    {
+        "check": "grandparents",
+        "id": 164,
+        "inLists": null,
+        "question": "Großeltern"
+    },
+    {
+        "check": "grandmother",
+        "id": 165,
+        "inLists": null,
+        "question": "Großmutter"
+    },
+    {
+        "check": "grandson",
+        "id": 166,
+        "inLists": null,
+        "question": "Enkel"
+    },
+    {
+        "check": "granny",
+        "id": 167,
+        "inLists": null,
+        "question": "Oma"
+    },
+    {
+        "check": "granddaughter",
+        "id": 168,
+        "inLists": null,
+        "question": "Enkelin"
+    },
+    {
+        "check": "grandpa",
+        "id": 169,
+        "inLists": null,
+        "question": "Opa"
+    },
+    {
+        "check": "grandchildren",
+        "id": 170,
+        "inLists": null,
+        "question": "Enkelkinder"
+    },
+    {
+        "check": "Aunt",
+        "id": 171,
+        "inLists": null,
+        "question": "Tante"
+    },
+    {
+        "check": "uncle",
+        "id": 172,
+        "inLists": null,
+        "question": "Onkel"
+    },
+    {
+        "check": "cousin",
+        "id": 173,
+        "inLists": null,
+        "question": "Cousin"
+    },
+    {
+        "check": "know it all",
+        "id": 174,
+        "inLists": null,
+        "question": "Klugscheißer"
+    },
+    {
+        "check": "extremely irritating",
+        "id": 175,
+        "inLists": null,
+        "question": "Nervensäge"
+    },
+    {
+        "check": "petty and pedantic",
+        "id": 176,
+        "inLists": null,
+        "question": "Korinthenkacker"
+    },
+    {
+        "check": "buzzkill",
+        "id": 177,
+        "inLists": null,
+        "question": "Spaßbremse"
+    },
+    {
+        "check": "chatterbox",
+        "id": 178,
+        "inLists": null,
+        "question": "Labertasche"
+    },
+    {
+        "check": "friend",
+        "id": 179,
+        "inLists": null,
+        "question": "Freund "
+    },
+    {
+        "check": "friendly",
+        "id": 180,
+        "inLists": null,
+        "question": "freundlich"
+    },
+    {
+        "check": "funny",
+        "id": 181,
+        "inLists": null,
+        "question": "lustig"
+    },
+    {
+        "check": "likeable",
+        "id": 182,
+        "inLists": null,
+        "question": "sympathisch"
+    },
+    {
+        "check": "unlikeable",
+        "id": 183,
+        "inLists": null,
+        "question": "unsympatisch"
+    },
+    {
+        "check": "silly",
+        "id": 184,
+        "inLists": null,
+        "question": "blöd"
+    },
+    {
+        "check": "irritating",
+        "id": 185,
+        "inLists": null,
+        "question": "nervig"
+    },
+    {
+        "check": "boring",
+        "id": 186,
+        "inLists": null,
+        "question": "langweilig"
+    },
+    {
+        "check": "belirmek",
+        "id": 187,
+        "inLists": null,
+        "question": "loom"
+    },
+    {
+        "check": "künye",
+        "id": 188,
+        "inLists": null,
+        "question": "masthead"
+    },
+    {
+        "check": "patlama sesi",
+        "id": 189,
+        "inLists": null,
+        "question": "plosive"
+    },
+    {
+        "check": "örgülü",
+        "id": 190,
+        "inLists": null,
+        "question": "plaited"
+    },
+    {
+        "check": "gümbürtü",
+        "id": 191,
+        "inLists": null,
+        "question": "thump"
+    },
+    {
+        "check": "saygınlık",
+        "id": 192,
+        "inLists": null,
+        "question": "eminence"
+    },
+    {
+        "check": "sokulmak",
+        "id": 193,
+        "inLists": null,
+        "question": "sidle"
+    },
+    {
+        "check": "tek",
+        "id": 194,
+        "inLists": null,
+        "question": "sole"
+    },
+    {
+        "check": "püsküllü",
+        "id": 195,
+        "inLists": null,
+        "question": "tasseled"
+    },
+    {
+        "check": "mokasen",
+        "id": 196,
+        "inLists": null,
+        "question": "loafer"
+    },
+    {
+        "check": "dost",
+        "id": 197,
+        "inLists": null,
+        "question": "crony"
+    },
+    {
+        "check": "kötü kokulu",
+        "id": 198,
+        "inLists": null,
+        "question": "malodorous"
+    },
+    {
+        "check": "çıldırtıcı",
+        "id": 199,
+        "inLists": null,
+        "question": "maddening"
+    },
+    {
+        "check": "yüzeysel",
+        "id": 200,
+        "inLists": null,
+        "question": "cursory"
+    },
+    {
+        "check": "ölüm",
+        "id": 201,
+        "inLists": null,
+        "question": "demise"
+    },
+    {
+        "check": "baharat",
+        "id": 202,
+        "inLists": null,
+        "question": "condiment"
+    },
+    {
+        "check": "nasıralı",
+        "id": 203,
+        "inLists": null,
+        "question": "Nazarene"
+    },
+    {
+        "check": "çivi",
+        "id": 204,
+        "inLists": null,
+        "question": "stud"
+    },
+    {
+        "check": "omuz silkmek",
+        "id": 205,
+        "inLists": null,
+        "question": "shrug"
+    },
+    {
+        "check": "kaçmak",
+        "id": 206,
+        "inLists": null,
+        "question": "elopement"
+    },
+    {
+        "check": "sperm",
+        "id": 207,
+        "inLists": null,
+        "question": "jism"
+    },
+    {
+        "check": "yorgun",
+        "id": 208,
+        "inLists": null,
+        "question": "weary"
+    },
+    {
+        "check": "benzemek",
+        "id": 209,
+        "inLists": "3",
+        "question": "resemble"
+    },
+    {
+        "check": "takırtı",
+        "id": 210,
+        "inLists": "3",
+        "question": "clatter"
+    },
+    {
+        "check": "sedye",
+        "id": 211,
+        "inLists": "3",
+        "question": "gurney"
+    },
+    {
+        "check": "kaldırım",
+        "id": 212,
+        "inLists": "3",
+        "question": "pavement"
+    },
+    {
+        "check": "dışarı bakmak",
+        "id": 213,
+        "inLists": "3",
+        "question": "peer out"
+    },
+    {
+        "check": "bağlamak",
+        "id": 214,
+        "inLists": "3",
+        "question": "hitch"
+    },
+    {
+        "check": "kadın çantası",
+        "id": 215,
+        "inLists": "3",
+        "question": "tote bag"
+    },
+    {
+        "check": "tempo",
+        "id": 216,
+        "inLists": "3",
+        "question": "pace"
+    },
+    {
+        "check": "mırıldanmak",
+        "id": 217,
+        "inLists": "3",
+        "question": "mutter"
+    },
+    {
+        "check": "sarsılmış",
+        "id": 218,
+        "inLists": "3",
+        "question": "afflicted"
+    },
+    {
+        "check": "aşıkane bakmak",
+        "id": 219,
+        "inLists": "3",
+        "question": "ogle "
+    },
+    {
+        "check": "zerre kadar",
+        "id": 220,
+        "inLists": "3",
+        "question": "diddly"
+    },
+    {
+        "check": "sevinç",
+        "id": 221,
+        "inLists": "3",
+        "question": "glee"
+    },
+    {
+        "check": "bebek maması",
+        "id": 222,
+        "inLists": "3",
+        "question": "pablum"
+    },
+    {
+        "check": "aşk dolu",
+        "id": 223,
+        "inLists": "3",
+        "question": "goo-goo"
+    },
+    {
+        "check": "çalkantı",
+        "id": 224,
+        "inLists": "3",
+        "question": "upheaval"
+    },
+    {
+        "check": "taahüt",
+        "id": 225,
+        "inLists": "3",
+        "question": "affidavit"
+    },
+    {
+        "check": "hapis öncesi",
+        "id": 226,
+        "inLists": "3",
+        "question": "preincarceration"
+    },
+    {
+        "check": "boya kalemi",
+        "id": 227,
+        "inLists": "3",
+        "question": "crayon"
+    },
+    {
+        "check": "kıyaslama",
+        "id": 228,
+        "inLists": "3",
+        "question": "syllogism"
+    },
+    {
+        "check": "sentez",
+        "id": 229,
+        "inLists": "3",
+        "question": "synthesis"
+    },
+    {
+        "check": "dost olmak",
+        "id": 230,
+        "inLists": "3",
+        "question": "fraternize"
+    },
+    {
+        "check": "öncelikli",
+        "id": 231,
+        "inLists": "3",
+        "question": "prior"
+    },
+    {
+        "check": "sabıka kaydı",
+        "id": 232,
+        "inLists": "3",
+        "question": "rap sheet"
+    },
+    {
+        "check": "yargı",
+        "id": 233,
+        "inLists": "3",
+        "question": "jurisdiction"
+    },
+    {
+        "check": "silmek",
+        "id": 234,
+        "inLists": "3",
+        "question": "expung"
+    },
+    {
+        "check": "çimenlik",
+        "id": 235,
+        "inLists": "3",
+        "question": "lawn "
+    },
+    {
+        "check": "ürkmek",
+        "id": 236,
+        "inLists": "3",
+        "question": "flinch"
+    }
+]
